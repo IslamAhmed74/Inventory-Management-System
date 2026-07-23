@@ -34,11 +34,13 @@ A modern and responsive **Inventory Management System** built with **Laravel 12*
 
 ### Dashboard
 
-##Admin Dashboard
+## Admin Dashboard
+
 <img width="1355" height="679" alt="image" src="https://github.com/user-attachments/assets/3e47b2aa-413a-41af-b29a-ed457a45b78e" />
 
 
-##User Dashboard
+## User Dashboard
+
 <img width="1352" height="673" alt="image" src="https://github.com/user-attachments/assets/be39834b-5f35-410f-b2d0-4691379a87f5" />
 
 
