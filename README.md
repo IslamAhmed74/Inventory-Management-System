@@ -28,6 +28,23 @@ A modern and responsive **Inventory Management System** built with **Laravel 12*
 - MySQL
 - Vite
 
+
+---
+
+
+## 🚀 Live Demo
+
+🔗 **Live Demo:** [View the Live Demo](https://inventory-ms-demo.infinityfree.me)
+
+### 🔐 Demo Admin Account
+
+You can use the following credentials to explore the admin dashboard:
+
+* **Email:** `Demo@Admin.com`
+* **Password:** `Admin123`
+
+> **Note:** This is a demo account created for testing purposes.
+
 ---
 
 ## 📸 Screenshots
@@ -66,21 +83,6 @@ A modern and responsive **Inventory Management System** built with **Laravel 12*
 <img width="1357" height="673" alt="image" src="https://github.com/user-attachments/assets/4db12fd8-ca62-4176-8563-b2c77210b1aa" />
 
 
----
-
-
-## 🚀 Live Demo
-
-🔗 **Live Demo:** [View the Live Demo](https://inventory-ms-demo.infinityfree.me)
-
-### 🔐 Demo Admin Account
-
-You can use the following credentials to explore the admin dashboard:
-
-* **Email:** `Demo@Admin.com`
-* **Password:** `Admin123`
-
-> **Note:** This is a demo account created for testing purposes.
 
 ---
 
