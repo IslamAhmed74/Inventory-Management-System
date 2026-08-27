@@ -69,9 +69,18 @@ A modern and responsive **Inventory Management System** built with **Laravel 12*
 ---
 
 
-## ⚙️ Live Demo
+## 🚀 Live Demo
 
-**https://inventory-ms-demo.infinityfree.me**
+🔗 **Live Demo:** [View the Live Demo](https://inventory-ms-demo.infinityfree.me)
+
+### 🔐 Demo Admin Account
+
+You can use the following credentials to explore the admin dashboard:
+
+* **Email:** `Demo@Admin.com`
+* **Password:** `Admin123`
+
+> **Note:** This is a demo account created for testing purposes.
 
 ---
 
