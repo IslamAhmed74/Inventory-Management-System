@@ -69,41 +69,9 @@ A modern and responsive **Inventory Management System** built with **Laravel 12*
 ---
 
 
-## ⚙️ Installation
+## ⚙️ Live Demo
 
-```bash
-git clone https://github.com/YOUR_USERNAME/Inventory-Management-System.git
-
-cd Inventory-Management-System
-
-composer install
-
-npm install
-
-cp .env.example .env
-
-php artisan key:generate
-
-php artisan migrate
-
-npm run dev
-
-php artisan serve
-```
-
----
-
-## 📂 Project Structure
-
-```
-app/
-bootstrap/
-database/
-public/
-resources/
-routes/
-storage/
-```
+**https://inventory-ms-demo.infinityfree.me**
 
 ---
 
